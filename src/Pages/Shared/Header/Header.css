@@ -1,10 +1,7 @@
 
 
-/* .header-bg{
-    background-color: rgb(8, 0, 80);
-    color: white;
-} */
-
-.masud{
-    color: red;
+.login-btn{
+    font-weight: bold;
+    background-color: inherit;
+    border: none;
 }

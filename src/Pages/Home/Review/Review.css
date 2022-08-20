@@ -1,0 +1,14 @@
+.review-bg{
+    padding: 40px;
+    background-color: rgb(245, 242, 237);
+}
+.review{
+    display: flex;
+    justify-content: center;
+    grid-gap: 20px;
+}
+.review-div{
+    height: 300px;
+    width: 600px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
