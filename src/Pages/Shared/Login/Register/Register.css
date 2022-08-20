@@ -1,0 +1,71 @@
+.register{
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.register-dev{
+    height: 600px;
+    width: 350px;
+    border: 1px solid none;
+    border-radius: 4px;
+    background-color: rgba(245, 244, 240, 0.842);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.register-hd{
+    text-align: center;
+    color: rgb(233, 132, 0);
+    font-size: 30px;
+    margin: 25px auto 15px  auto;
+}
+.register-form{
+    text-align: center;
+}
+.register-input{
+    width: 250px;
+    height: 40px;
+    background:none;
+    border-radius: 4px;
+    border: 1px solid rgb(191, 95, 255);
+    margin: 10px 0;
+    font-size: 16px;
+    color: rgba(71, 62, 49, 0.712);
+    font-weight: 600;
+}
+.input-submit:hover{
+    cursor: pointer;
+    color: rgb(253, 194, 122);
+    background: rgba(139, 0, 231, 0.712);
+    border: none;
+}
+.register-or {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.register-or hr{
+    width: 40%;
+}
+.new-user{
+    color: rgb(141, 71, 2);
+}
+.new-user span{
+    color: rgb(17, 0, 255);
+    font-weight: bold;
+}
+.new-user span:hover{
+    cursor: pointer;
+    color: rgb(255, 115, 0);
+} 
+/*** --------------***/
+.socialRegister{
+    display: flex;
+    justify-content: center;
+}
+.socialRegister img{
+    margin: 0 20px;
+}
+.socialRegister img:hover{
+    cursor: pointer;    
+}
+/*** --------------***/
