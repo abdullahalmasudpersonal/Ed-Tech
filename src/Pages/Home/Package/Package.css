@@ -1,0 +1,14 @@
+
+.package-bg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.package-dev{
+    margin: 5px;
+    height: 400px;
+    width: 300px;
+    border: 1px solid rebeccapurple;
+    border-radius: 4px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
